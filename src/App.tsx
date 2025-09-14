@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { CheckIcon, XMarkIcon, ArrowPathIcon, ClipboardDocumentIcon } from '@heroicons/react/24/outline';
+import { CheckIcon, XMarkIcon, ClipboardDocumentIcon } from '@heroicons/react/24/outline';
 
 // Sample palindrome examples
 const PALINDROME_EXAMPLES = [
